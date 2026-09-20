@@ -1,0 +1,18 @@
+{
+    "columns": 5,
+    "nodes": [
+        "入脱",
+        "开电",
+        "AOI",
+        "EDID",
+        "Cxyv",
+        "Flicker",
+        "CCR",
+        "Gamma",
+        "TP",
+        "帧检",
+        "SN烧录",
+        "关电",
+        "出数"
+    ]
+}

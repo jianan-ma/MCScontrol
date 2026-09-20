@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/config.png</file>
+        <file>res/config_w.png</file>
+        <file>res/debug.png</file>
+        <file>res/debug_w.png</file>
+        <file>res/formula.png</file>
+        <file>res/formula_w.png</file>
+        <file>res/log.png</file>
+        <file>res/log_w.png</file>
+        <file>res/main.png</file>
+        <file>res/main_w.png</file>
+        <file>res/statistics.png</file>
+        <file>res/statistics_w.png</file>
+        <file>res/workstation.png</file>
+        <file>res/close.png</file>
+        <file>res/max.png</file>
+        <file>res/maxd.png</file>
+        <file>res/min.png</file>
+    </qresource>
+    <qresource prefix="/config">
+        <file>res/node_config.json</file>
+    </qresource>
+</RCC>
